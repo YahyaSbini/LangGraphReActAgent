@@ -1,8 +1,1 @@
 .env
-
-#OPENAI=
-#TAVILY=
-#LANGSMITH_TRACING="true"
-#LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
-#LANGSMITH=
-#LANGSMITH_PROJECT="udemy-langgraph-pratice"
