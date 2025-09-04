@@ -1,1 +1,2 @@
 add this api keys: openAI ,Tavily and langsmith
+weh downlaod add python interpreator and download all libraries using poetry
